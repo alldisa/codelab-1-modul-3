@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/codelab 1 modul 3 PL.iml" filepath="$PROJECT_DIR$/codelab 1 modul 3 PL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MODUL 3 PL.iml" filepath="$PROJECT_DIR$/MODUL 3 PL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 1/TUGAS 1.iml" filepath="$PROJECT_DIR$/TUGAS 1/TUGAS 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 2/TUGAS 2.iml" filepath="$PROJECT_DIR$/TUGAS 2/TUGAS 2.iml" />
     </modules>
   </component>
 </project>
